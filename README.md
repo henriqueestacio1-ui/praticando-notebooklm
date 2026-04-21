@@ -1,15 +1,15 @@
 # praticando-notebooklm
+
 Eridu:primórdios da civilização 
 
 Objetivos:
-Optei por descrever e melhorar informações sobre uma das cidades mais antigas do mundo, Eridu, a qual detalharei.
+Optei por descrever e melhorar informações sobre uma das cidades mais antigas do mundo, Eridu.
 
 Fontes:
 https://www.nationalgeographic.pt/historia/como-arqueologos-descobriram-uma-das-cidades-mais-antigas-mundo-eridu-mesopotamia_6012
 armstronginstitute.org/
 
 https://armstronginstitute.org/886-eridu-the-bibles-first-city-and-the-family-of-cain-archaeological-parallels-to-the-biblical-account
-
 
 https://www.worldhistory.org/trans/pt/1-129/eridu/
 
@@ -91,6 +91,7 @@ Proteger Eridu não é apenas preservar uma relíquia, mas manter um laboratóri
 
 
 Glossário:
+
 Civilização Sumeriana e Eridu
 
           Eridu, Primeira cidade
@@ -101,6 +102,7 @@ Civilização Sumeriana e Eridu
           Preservação Atual
 
 Prompts: 
+
 O Berço de Babel é o Éden Mesopotâmico
 Eridu: O Berço da Civilização Suméria
 Eridu and Uruk: The Genesis of Mesopotamian Urbanism

@@ -2,7 +2,7 @@
 Práticas com NotebookLM
 
 Objetivos:
-Optei por descrever e melhorar informações sobre uma das cidades mais antigas do mundo, Eridu, a qual procurarei detalhar.
+Optei por descrever e melhorar informações sobre uma das cidades mais antigas do mundo, Eridu, a qual detalharei.
 
 Fontes:
 armstronginstituto.org
